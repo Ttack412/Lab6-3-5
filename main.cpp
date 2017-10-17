@@ -34,6 +34,7 @@ public:
     void Draw(){cout << "The Third Drawing: " << endl << "   /\\" << endl << "  /00\\" << endl << " /0000\\" << endl;};
 };
 
+
 int main(void)
 { 
     //Pointers for each type of drawing
